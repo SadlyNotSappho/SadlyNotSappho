@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! I'm SapphicSapphire.
+I've had GitHub for a bit, but I haven't made anything that I feel like I can release yet.
+My pronouns are **She/Her**, and I'm a lesbian.
+
+I'm learning Rust (well, I just have to learn a few things before I can say that I "know" Rust), and I'm decent at TypeScript.
+
+I play D&D and Skyrim, and I like Stranger Things. I used to play Minecraft a lot more than I currently do.
+
 
 <!--
 **SapphicSapphire/SapphicSapphire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
